@@ -9,6 +9,8 @@ html {
 }
 
 .page {
+  display:flex;
+  align-items: center;
   inline-size: 1200px;
   block-size: 100%;
   margin: auto;
@@ -44,7 +46,7 @@ ol {
   max-width: 1140px;
   max-height: 534px;
   gap: 30px;
-  margin: 133px 30px;
+  margin: 0 30px;
 }
 
 .search-form{
