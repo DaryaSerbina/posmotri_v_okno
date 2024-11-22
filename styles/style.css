@@ -107,7 +107,6 @@ ol {
 .search-form__fieldset-title {
   font-weight: 400;
   font-size: 18px;
-  font-family: "Fira Sans Condensed", sans-serif;
   padding-bottom: 7px;
 }
 
@@ -145,9 +144,6 @@ ol {
 
 .content__video-card-description {
   line-height: 90%;
-  font-size: 18px;
-  font-family: "Fira Sans Condensed", sans-serif;
-  font-weight: 400;
   padding: 5px 5px 0 0;
 }
 
